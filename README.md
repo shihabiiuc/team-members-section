@@ -6,7 +6,7 @@ Team members section for your website. Initially hide the description/overview o
 
 If you have multiple team members on your team, it'll take huge space if you want to show their biography/overview. It will require huge scrolling for your visitors if they want to see next team member's profile/biography.
 
-**So we thought that it's better if we hide team member's biography initially and only show specific member's biography depending on your visitors interest (if they click anyone's profile photo or name)**
+**So we thought that it's better if we hide team member's biography initially and only show specific member's biography depending on your visitors interest (if they click anyone's profile photo or name).**
 
 Live URL [Team Members](https://shihab0915.github.io/team-members-section/)
 
@@ -15,10 +15,10 @@ Live URL [Team Members](https://shihab0915.github.io/team-members-section/)
 
 
 *Thank you,
-Shihab Ul Haque
-Web Designer & Developer
-Profile on: [Fiverr](https://www.fiverr.com/shihabiiuc)
-Profile on: [Upwork](https://www.upwork.com/freelancers/~01a9f777bf29c61bb1)*
+Shihab Ul Haque,
+Web Designer & Developer,
+Profile on: [Fiverr](https://www.fiverr.com/shihabiiuc),
+Profile on: [Upwork](https://www.upwork.com/freelancers/~01a9f777bf29c61bb1).*
 
 
 *Interested in a discussion? [Book a schedule](https://calendly.com/shihabdinajpur/client-meeting/), it's free!*
