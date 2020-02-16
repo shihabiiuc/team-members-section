@@ -64,12 +64,22 @@ body{
     font-size: 16px;
 }
 .one-third{
-	width: 33%;
+	width: 100%;
 	float: left;
 }
+@media (min-width: 768px) {
+    .one-third{
+        width: 33%;
+    }
+}
 .one-half{
-    width: 50%;
+    width: 100%;
     float: left;
+}
+@media (min-width: 768px) {
+    .one-half{
+        width: 50%;
+    }
 }
 img{
 	max-width: 100%;
