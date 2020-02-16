@@ -8,7 +8,7 @@ If you have multiple team members on your team, it'll take huge space if you wan
 
 **So we thought that it's better if we hide team member's biography initially and only show specific member's biography depending on your visitors interest (if they click anyone's profile photo or name).**
 
-Live URL [Team Members](https://shihab0915.github.io/team-members-section/)
+Live URL [Team Members](https://shihabiiuc.github.io/team-members-section/)
 
 ### This is what I mean in the bellow video
 ![alt text](https://raw.githubusercontent.com/shihabiiuc/team-members-section/master/img/Team-Members-github.gif)
