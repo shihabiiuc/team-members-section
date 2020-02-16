@@ -11,7 +11,7 @@ If you have multiple team members on your team, it'll take huge space if you wan
 Live URL [Team Members](https://shihab0915.github.io/team-members-section/)
 
 ### This is what I mean in the bellow video
-![alt text](https://raw.githubusercontent.com/shihab0915/freelance-marketplace-ricardo/master/wp-content/themes/live-preview.jpg)
+![alt text](https://github.com/shihabiiuc/team-members-section/blob/master/video/team-member-section-for-website.mp4)
 
 
 *Thank you,
