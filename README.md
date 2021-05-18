@@ -14,11 +14,6 @@ Live URL [Team Members](https://shihabiiuc.github.io/team-members-section/)
 ![alt text](https://raw.githubusercontent.com/shihabiiuc/team-members-section/master/img/Team-Members-github.gif)
 
 
-*Thank you,
-Shihab Ul Haque,
-Web Designer & Developer,
-Profile on: [Fiverr](https://www.fiverr.com/shihabiiuc),
-Profile on: [Upwork](https://www.upwork.com/freelancers/~01a9f777bf29c61bb1).*
-
-
-*Interested in a discussion? [Book a schedule](https://calendly.com/shihabdinajpur/client-meeting/), it's free!*
+*Thank you
+Shihab Ul Haque
+Web Designer & Developer
