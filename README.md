@@ -14,6 +14,6 @@ Live URL [Team Members](https://shihabiiuc.github.io/team-members-section/)
 ![alt text](https://raw.githubusercontent.com/shihabiiuc/team-members-section/master/img/Team-Members-github.gif)
 
 
-*Thank you__
-Shihab__
+*Thank you<br />
+Shihab<br />
 Web Designer & Developer
